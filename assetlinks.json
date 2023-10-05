@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.extraordinary_sprite_ce86e9.twa",
+        "sha256_cert_fingerprints": ["82:08:F2:A4:DA:93:7A:00:5A:8C:6A:53:C1:D0:30:47:8D:F8:6A:0A:4B:6A:A5:C8:DA:44:6D:CE:47:AE:ED:2D"]
+      }
+    }]
